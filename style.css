@@ -1,0 +1,66 @@
+.background_grid{
+    display: flex;
+    justify-content: center;
+    padding-top: 130px;
+}
+
+.login_form{
+    display: block;
+    background-color: #FFF;
+    width: 400px;
+    height: 630px;
+}
+
+.text_login_form{
+    font-family: Geneva;
+    font-style: normal;
+    font-weight: bolder;
+    display: block;
+    padding-left: 60px;
+    padding-top: 70px;
+}
+
+.image{
+    position: relative;
+}
+
+.btn_google{
+    font-weight: 700;
+    color: #000;
+    background-color: #FFF;
+    position: relative;
+    left: 50px;
+    box-shadow: 0 0 2px 1px;
+    border: 2px solid #dce1e5;
+    border-radius: 30px;
+    padding: 15px 15px;
+    letter-spacing: 2.5px;
+}
+
+.btn_enter{
+    width: 290px;
+    color: #FFF;
+    background-color: brown;
+    position: relative;
+    border: 2px solid #dce1e5;
+    border-radius: 30px;
+    padding: 15px 15px;
+    top: 20px;
+    letter-spacing: 2.5px;
+}
+
+.login_fields{
+    height: 20px;
+    border-radius: 30px;
+}
+
+.first_text{
+    font-size: small;
+    color: darkgray;
+}
+
+.second_text{
+    font-size: x-small;
+    color: lightgray;
+    padding-left: 30%;
+}
